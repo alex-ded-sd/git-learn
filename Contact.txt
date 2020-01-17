@@ -1,4 +1,4 @@
-Text in file V10
+Commit 1
 Text after staging
 V2 for history
 V3
