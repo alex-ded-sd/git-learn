@@ -2,3 +2,4 @@ Text in file v1
 Text after staging
 V2 for history
 V3
+Feature from origin
