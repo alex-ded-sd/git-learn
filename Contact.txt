@@ -11,3 +11,5 @@ V3. Conflict must be.
 Local changes V4
 Feature from origin. More Data.
 Data in origin
+
+Local master changes
