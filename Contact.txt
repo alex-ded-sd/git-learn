@@ -7,5 +7,6 @@ V3
 Local changes V4 ?New data
 Feature from origin 
 V3. Conflict must be.
-Local changes V4?Feature from origin. More Data.
+Local changes V4
+Feature from origin. More Data.
 Data in origin
