@@ -2,7 +2,8 @@ Text in file v1
 Text after staging
 V2 for history
 V3
-Local changes V4?Feature from origin
+Local changes V4
+Feature from origin
 V3
 Local changes V4 ?New data
 Feature from origin 
