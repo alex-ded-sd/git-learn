@@ -1,4 +1,4 @@
-Commit 1
+Conflict
 Text after staging
 V2 for history
 V3
