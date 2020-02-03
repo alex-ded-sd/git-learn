@@ -2,3 +2,7 @@ Version 1
 After add command
 new data
 Test in account
+
+
+Data from dev <i class="fas fa-code-branch    "></i>
+conflict must be
