@@ -3,5 +3,7 @@ After add command
 new data
 Test in account
 
-
 Commit in master branch
+Data from dev <i class="fas fa-code-branch    "></i>
+conflict must be
+
